@@ -2,7 +2,7 @@ document.getElementById('header').innerHTML = `
 <div class="overlay"></div>
 <header>
   <div class="logo">
-    <img src="assets/icon.png" alt="Brand Motive Marketing">
+    <img src="icon.png" alt="Brand Motive Marketing">
   </div>
   <nav class="nav-links">
     <a href="#home">HOME</a>
@@ -20,7 +20,7 @@ document.getElementById('header').innerHTML = `
 <div class="navbar">
   <button class="close-btn">✕</button>
   <div class="navbar-logo">
-    <img src="assets/icon_wh.png" alt="Brand Motive Marketing">
+    <img src="icon_wh.png" alt="Brand Motive Marketing">
   </div>
   <div class="navbar-links"></div>
   <div class="navbar-contact">
