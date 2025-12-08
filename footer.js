@@ -3,7 +3,7 @@ document.getElementById("footer").innerHTML = `
   <div class="footer-info">
 
     <div class="info">
-      <img src="assets/icon_wh.png">
+      <img src="icon_wh.png">
       <span>
         We re a results-driven social media agency, partnering with 2500+ creators to amplify brand growth and craft impactful marketing strategies. 🚀
       </span>
@@ -37,7 +37,7 @@ document.getElementById("footer").innerHTML = `
     <div class="team">
       <h2 class="h2-txt">Our Warriors</h2>
       <div class="war">
-        <img src="assets/image_wh.png">
+        <img src="image_wh.png">
       </div>
     </div>
 
